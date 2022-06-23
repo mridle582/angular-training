@@ -1,2 +1,2 @@
-# angular-training
-Some beginner projects using Angular
+# Angular-Training
+Some beginner projects I wrote using Angular
