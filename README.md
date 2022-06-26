@@ -4,8 +4,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 <br>
 Dependencies:
-    Node.js >= v16.15.1
-    npm >= 8.11.0
+    Node.js >= v16.15.1, 
+    npm >= 8.11.0, 
     Angular CLI >= 14.0.3
 </br>
 
